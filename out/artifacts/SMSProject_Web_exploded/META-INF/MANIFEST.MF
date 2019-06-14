@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: SMSProject
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: isace
+Implementation-Vendor-Id: az.edu.bsu
+Created-By: IntelliJ IDEA
+Build-Jdk: 10
+Main-Class: ${start-class}
+
